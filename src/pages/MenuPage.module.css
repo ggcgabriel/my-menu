@@ -1,0 +1,9 @@
+.menu_page {
+	margin-top: 20px;
+}
+
+.cardFlexContainer {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 20px;
+}

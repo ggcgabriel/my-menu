@@ -1,0 +1,9 @@
+.homePage {
+	display: flex;
+	color: #222;
+}
+
+.homeImage {
+	padding: 25px;
+	align-items: center;
+}
